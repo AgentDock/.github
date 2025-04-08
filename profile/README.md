@@ -6,10 +6,10 @@ AgentDock provides the foundation for building sophisticated AI agents and compl
 
 ## Get Started
 
-*   🚀 **Explore AgentDock Hub:** Discover pre-built agents, tools, and resources at [hub.agentdock.ai](https://hub.agentdock.ai).
+*   🚀 **Explore the Open Source Client:** See AgentDock in action, discover pre-built agents, tools, and resources at our hosted client: [hub.agentdock.ai](https://hub.agentdock.ai).
 *   📚 **Read the Documentation:** Dive deep into our architecture, guides, and API references at [hub.agentdock.ai/docs](https://hub.agentdock.ai/docs).
 *   💻 **Check out our Open Core Repository:** Find the main framework codebase and contribute at [github.com/AgentDock/AgentDock](https://github.com/AgentDock/AgentDock).
-*   ☁️ **Get Free Credits for AgentDock Pro:** Visit our main site [agentdock.ai](https://agentdock.ai) to sign up for launch updates and claim free credits!
+*   ☁️ **AgentDock Pro Launch:** Sign up for updates and claim free credits for our upcoming Pro platform at [agentdock.ai](https://agentdock.ai).
 
 ## Join the Community
 
