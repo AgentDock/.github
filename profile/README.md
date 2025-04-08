@@ -1,12 +1,22 @@
-## Hi there 👋
+# Welcome to AgentDock! 👋
 
-<!--
+**Build Anything with AI Agents**
 
-**Here are some ideas to get you started:**
+AgentDock provides the foundation for building sophisticated AI agents and complex workflows with **configurable determinism**. We're building the next generation of tools to create, deploy, and manage powerful AI agents, making the technology accessible, reliable, and robust.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Get Started
+
+*   🚀 **Explore AgentDock Hub:** Discover pre-built agents, tools, and resources at [hub.agentdock.ai](https://hub.agentdock.ai).
+*   📚 **Read the Documentation:** Dive deep into our architecture, guides, and API references at [hub.agentdock.ai/docs](https://hub.agentdock.ai/docs).
+*   💻 **Check out our Open Core Repository:** Find the main framework codebase and contribute at [github.com/AgentDock/AgentDock](https://github.com/AgentDock/AgentDock).
+*   ☁️ **Get Free Credits for AgentDock Pro:** Visit our main site [agentdock.ai](https://agentdock.ai) to sign up for launch updates and claim free credits!
+
+## Join the Community
+
+Connect with us, ask questions, and share what you're building:
+
+*   **Discord:** [Join our Discord Server](https://discord.gg/fDYFFmwuRA)
+*   **Twitter / X:** [Follow @AgentDock](https://x.com/agentdock)
+*   **LinkedIn:** `[Link to LinkedIn Page]`
+
+We're excited to build the future of AI interaction together!
