@@ -1,5 +1,13 @@
 # Welcome to AgentDock! 👋
 
+[![GitHub stars](https://img.shields.io/github/stars/agentdock/agentdock?style=social)](https://github.com/agentdock/agentdock/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status: Beta](https://img.shields.io/badge/Status-Beta-blue)](https://github.com/AgentDock/AgentDock/releases)
+[![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://hub.agentdock.ai/docs)
+[![Discord](https://img.shields.io/discord/1335979387975110656?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/fDYFFmwuRA)
+[![Cloud](https://img.shields.io/badge/Cloud-☁️-blue)](https://agentdock.ai)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AgentDock?style=social)](https://x.com/agentdock)
+
 **Build Anything with AI Agents**
 
 AgentDock provides the foundation for building sophisticated AI agents and complex workflows with **configurable determinism**. We're building the next generation of tools to create, deploy, and manage powerful AI agents, making the technology accessible, reliable, and robust.
