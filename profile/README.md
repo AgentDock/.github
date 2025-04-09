@@ -16,7 +16,8 @@ AgentDock provides the foundation for building sophisticated AI agents and compl
 Connect with us, ask questions, and share what you're building:
 
 *   **Discord:** [Join our Discord Server](https://discord.gg/fDYFFmwuRA)
-*   **Twitter / X:** [Follow @AgentDock](https://x.com/agentdock)
-*   **LinkedIn:** `[Link to LinkedIn Page]`
+*   **Twitter / X:** [Follow @AgentDock](https://x.com/AgentDock)
+*   **LinkedIn:** [Follow AgentDock on LinkedIn](https://www.linkedin.com/company/agentdock/)
+*   💡 **Request for Agents:** Check out our [Request for Agents (RFA)](https://hub.agentdock.ai/docs/rfa/) page, deploy your first agent easily, and start contributing to the open-source ecosystem!
 
 We're excited to build the future of AI interaction together!
