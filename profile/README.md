@@ -34,3 +34,7 @@ Connect with us, ask questions, and share what you're building:
 *   💡 **Request for Agents:** Check out our [Request for Agents (RFA)](https://agentdock.ai/docs/request-for-agents) page, deploy your first agent easily, and start contributing to the open-source ecosystem!
 
 We're excited to build the future of AI interaction together!
+
+<br>
+
+[![AgentDock](https://github.com/user-attachments/assets/d8037f82-4091-4323-b7d2-4c1935777505)](https://agentdock.ai?utm_source=github&utm_medium=readme&utm_campaign=main)
